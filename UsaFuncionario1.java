@@ -8,6 +8,7 @@ public class UsaFuncionario1 {
     funcionario1.setValorHora(15.17f);
 
     //Este funcionário trabalha 20h/semana
-    System.out.print1n
+    System.out.println("Nome: " + funcionario1.getNome());
+    System.out.println("Salário: R$" + funcionario1.salario(20f)); 
   }
 }
